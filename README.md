@@ -1,2 +1,2 @@
 # OrderFoodSystem
-EAT heathy 
+Eat healthy
